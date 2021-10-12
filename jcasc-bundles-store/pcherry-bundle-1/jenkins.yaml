@@ -1,3 +1,2 @@
 jenkins:
-  systemMessage: "<font size=\"3\"><b><br /><br /><p style=\"text-align:center\">Phil's\
-    \ CloudBees CI demo system on Google GKE 30th Sept 2021</p><br /><br /></b></font>"
+  systemMessage: "CloudBees CI demo system on Google GKE 30th Sept 2021"
